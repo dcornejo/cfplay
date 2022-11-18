@@ -7,4 +7,4 @@
     </style>
 </svelte:head>
 
-<h1>Studio Dogwood, Kailua, Hawaii</h1>
+<h1>Studio Dogwood</h1>
