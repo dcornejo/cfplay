@@ -1,3 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read
-    the documentation</p>
+<svelte:head>
+    <style>
+        * {
+            font-family: sans-serif;
+            background-color: rgba(196, 227, 255, 0.97);
+        }
+    </style>
+</svelte:head>
+
+<h1>Studio Dogwood</h1>
