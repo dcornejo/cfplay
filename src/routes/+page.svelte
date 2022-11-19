@@ -6,6 +6,9 @@
         }
     </style>
     <title>studio dogwood</title>
+    <script>
+        console.log(document.location.hostname);
+    </script>
 </svelte:head>
 
 <h1>Studio Dogwood</h1>
